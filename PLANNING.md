@@ -132,3 +132,7 @@ _Academic first semester 2023-2024_
    * Parallelism 2 : Semantics, implementing languages, and advanced futures [slides in english](course/cap_cours13_parallelismAdvanced.pdf)
  
 - :hammer: Choice Lab (2/3): Thursday 07/12/2023, 8h00-10h00. Auditorium B (Samuel Humeau & Hugo Thievenaz)
+
+# Week 13:
+ 
+- :hammer: Choice Lab (3/3): Thursday 14/12/2023, 8h00-10h00. Room E001 (Samuel Humeau & Hugo Thievenaz)
